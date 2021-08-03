@@ -1,10 +1,10 @@
-# Project_Blue
+# Project_Blue_Banking
   
 # Online-Banking-system
 Online Banking System in PHP & MySQL.         
 
 
-The project’s primary goals consist of:
+The projectâ€™s primary goals consist of:
 
 > A robust and effective web based online banking system.
 
@@ -42,7 +42,7 @@ Online Banking features:
 
 Security:
 
->Each and every input is passed through mysql_real_escape_string() to remove special characters from the string so that user can’t submit arbitrary input. It protects from attacks like Sql Injection and Cross Site Scripting(XSS).
+>Each and every input is passed through mysql_real_escape_string() to remove special characters from the string so that user canâ€™t submit arbitrary input. It protects from attacks like Sql Injection and Cross Site Scripting(XSS).
 
 >Passwords are encrypted with SHA- 1  hashing algorithm and then stored in database.
 
