@@ -1,2 +1,2 @@
 # Project_Blue
-  A simple sprinboot enterprise system for businesses
+  A simple springboot enterprise system for businesses
